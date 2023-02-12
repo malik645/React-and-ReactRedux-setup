@@ -1,0 +1,1 @@
+just clone and install node modules. This is a proper setup of react and react-redux by using this you have no need to install redux and react-redux and make file structure and attached store just clone and use it.
